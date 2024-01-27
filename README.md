@@ -6,10 +6,10 @@
     learning React concepts.
 
 # Features
-    1.Addition, subtraction, multiplication, and division operations
-    2.Clear and intuitive user interface
-    3.Responsive design for a seamless experience on various devices
-    4.Dark and white theme
+<li>Addition, subtraction, multiplication, and division operations.</li>
+<li>Clear and intuitive user interface.</li>
+<li>Responsive design for a seamless experience on various devices.</li>
+<li>Dark and white theme.</li>
 
 # Technologies Used
     ReactJS
